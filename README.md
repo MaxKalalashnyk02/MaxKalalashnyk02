@@ -61,3 +61,10 @@ Built a React.JS ToDo application with various hooks and API integration.
 
 ### [Admin Dashboard for Catalog App](https://fe-nov23-nopyton.github.io/catalog/home)
 This project is an admin dashboard for a Catalog App built using Next.js and PostgreSQL. It provides an interface for managing backend data and operations, serving as the backend for the Catalog Web App.
+
+**Technologies Used:**
+- Next.js
+- PostgreSQL
+- React
+- CSS3
+- GIT
